@@ -1,1 +1,1 @@
-print("coffee\nKaffee\ncafé\ncaffè")
+print("coffee\nKaffee\ncafé\ncaffè") # test one
